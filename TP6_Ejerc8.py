@@ -1,6 +1,7 @@
 def main ():
     dividendo=int(input("Ingrese el dividendo de la operación: "))
     divisor=int(input("Ingrese el divisor de la operación: "))
+    //solo prueba
     if divisor==0:
         print("No se puede dividir por 0!")
     else:
