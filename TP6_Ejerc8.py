@@ -3,6 +3,9 @@ def main ():
     divisor=int(input("Ingrese el divisor de la operación: "))
     #solo prueba
     #hola mundo
+
+#apartir de aqui comienza el if
+
     if divisor==0:
         print("No se puede dividir por 0!")
     else:
